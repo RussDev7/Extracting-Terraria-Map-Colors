@@ -436,5 +436,5 @@ End Sub
 </details>
 
 <p align="center">
-  <img width="1880" height="450" src="https://user-images.githubusercontent.com/33048298/180628858-5fcdac97-4c78-4022-a40e-ff3e13c72c00.PNG">
+  <img src="https://user-images.githubusercontent.com/33048298/180628858-5fcdac97-4c78-4022-a40e-ff3e13c72c00.PNG">
 </p>
