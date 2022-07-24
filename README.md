@@ -434,5 +434,7 @@ bm_Safe_Exit:
 End Sub
 ```
 </details>
- 
-![UniqueAddedColors](https://user-images.githubusercontent.com/33048298/180628719-b0163896-bbdd-4c57-8630-d7a5fd12d1aa.PNG)
+
+<p align="center">
+  <img width="1880" height="450" src="https://user-images.githubusercontent.com/33048298/180628858-5fcdac97-4c78-4022-a40e-ff3e13c72c00.PNG">
+</p>
