@@ -1,0 +1,27 @@
+C:\Users\Win7\source\repos\SortHexColors\SortHexColors\bin\x64\Release\SortHexColors.exe.config
+C:\Users\Win7\source\repos\SortHexColors\SortHexColors\bin\x64\Release\SortHexColors.exe
+C:\Users\Win7\source\repos\SortHexColors\SortHexColors\bin\x64\Release\SortHexColors.pdb
+C:\Users\Win7\source\repos\SortHexColors\SortHexColors\obj\x64\Release\SortHexColors.Form1.resources
+C:\Users\Win7\source\repos\SortHexColors\SortHexColors\obj\x64\Release\SortHexColors.Properties.Resources.resources
+C:\Users\Win7\source\repos\SortHexColors\SortHexColors\obj\x64\Release\SortHexColors.csproj.GenerateResource.cache
+C:\Users\Win7\source\repos\SortHexColors\SortHexColors\obj\x64\Release\SortHexColors.csproj.CoreCompileInputs.cache
+C:\Users\Win7\source\repos\SortHexColors\SortHexColors\obj\x64\Release\SortHexColors.exe
+C:\Users\Win7\source\repos\SortHexColors\SortHexColors\obj\x64\Release\SortHexColors.pdb
+C:\Users\Win7\Desktop\VB PROJECTS BACKUP RECOURCES\SortHexColors\SortHexColors\bin\x64\Release\SortHexColors.exe.config
+C:\Users\Win7\Desktop\VB PROJECTS BACKUP RECOURCES\SortHexColors\SortHexColors\bin\x64\Release\SortHexColors.exe
+C:\Users\Win7\Desktop\VB PROJECTS BACKUP RECOURCES\SortHexColors\SortHexColors\bin\x64\Release\SortHexColors.pdb
+C:\Users\Win7\Desktop\VB PROJECTS BACKUP RECOURCES\SortHexColors\SortHexColors\obj\x64\Release\SortHexColors.Form1.resources
+C:\Users\Win7\Desktop\VB PROJECTS BACKUP RECOURCES\SortHexColors\SortHexColors\obj\x64\Release\SortHexColors.Properties.Resources.resources
+C:\Users\Win7\Desktop\VB PROJECTS BACKUP RECOURCES\SortHexColors\SortHexColors\obj\x64\Release\SortHexColors.csproj.GenerateResource.cache
+C:\Users\Win7\Desktop\VB PROJECTS BACKUP RECOURCES\SortHexColors\SortHexColors\obj\x64\Release\SortHexColors.csproj.CoreCompileInputs.cache
+C:\Users\Win7\Desktop\VB PROJECTS BACKUP RECOURCES\SortHexColors\SortHexColors\obj\x64\Release\SortHexColors.exe
+C:\Users\Win7\Desktop\VB PROJECTS BACKUP RECOURCES\SortHexColors\SortHexColors\obj\x64\Release\SortHexColors.pdb
+C:\Users\Win7\Desktop\SortHexColors\SortHexColors\bin\x64\Release\SortHexColors.exe.config
+C:\Users\Win7\Desktop\SortHexColors\SortHexColors\bin\x64\Release\SortHexColors.exe
+C:\Users\Win7\Desktop\SortHexColors\SortHexColors\bin\x64\Release\SortHexColors.pdb
+C:\Users\Win7\Desktop\SortHexColors\SortHexColors\obj\x64\Release\SortHexColors.Form1.resources
+C:\Users\Win7\Desktop\SortHexColors\SortHexColors\obj\x64\Release\SortHexColors.Properties.Resources.resources
+C:\Users\Win7\Desktop\SortHexColors\SortHexColors\obj\x64\Release\SortHexColors.csproj.GenerateResource.cache
+C:\Users\Win7\Desktop\SortHexColors\SortHexColors\obj\x64\Release\SortHexColors.csproj.CoreCompileInputs.cache
+C:\Users\Win7\Desktop\SortHexColors\SortHexColors\obj\x64\Release\SortHexColors.exe
+C:\Users\Win7\Desktop\SortHexColors\SortHexColors\obj\x64\Release\SortHexColors.pdb
