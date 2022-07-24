@@ -433,4 +433,6 @@ bm_Safe_Exit:
     Application.EnableEvents = True
 End Sub
 ```
-<details>
+</details>
+ 
+![UniqueAddedColors](https://user-images.githubusercontent.com/33048298/180628719-b0163896-bbdd-4c57-8630-d7a5fd12d1aa.PNG)
