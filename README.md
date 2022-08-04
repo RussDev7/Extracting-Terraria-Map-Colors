@@ -5,6 +5,8 @@
  
 For this, I'm using an open source application called [TEdit](https://github.com/TEdit/Terraria-Map-Editor) and replacing a function called `LeadBestiary()`. This function will go through and place all 624 tiles and 315 walls for each possible paint color. Leaving one unpainted. Due to the logic of Terraria, some blocks such as sand will need to be resting on a solid block. For this we place a glass under each block, ignoring walls.
 
+![WorldPeak](https://user-images.githubusercontent.com/33048298/182737324-46cccf11-4f6b-46ed-b521-0f0144494b2b.PNG)
+
 <details><summary>Show Code</summary>
  
 ```c#
