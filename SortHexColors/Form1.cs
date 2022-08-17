@@ -34,7 +34,23 @@ namespace SortHexColors
             // https://stackoverflow.com/a/62203405/8667430
             if (radioButton1.Checked)
             {
-                tiledata.OrderBy(color => color.Item3.GetHue()).ThenBy(o => o.Item3.R * 3 + o.Item3.G * 2 + o.Item3.B * 1);
+                // Create An IOrderEnumerable List
+                var tiledatalist = tiledata.OrderBy(color => color.Item3.GetHue()).ThenBy(o => o.Item3.R * 3 + o.Item3.G * 2 + o.Item3.B * 1);
+
+                // Expand Each Item Of The List
+                foreach (var tiledatainfo in tiledatalist)
+                {
+                    // Define info from the list item
+                    string tile = tiledatainfo.Item1;
+                    string paint = tiledatainfo.Item2;
+                    Color color = tiledatainfo.Item3;
+
+                    // Output the data
+                    richTextBox2.AppendText(tile + "	" + paint + "	" + ColorConverterExtensions.ToHexString(color).Replace("#", "") + Environment.NewLine);
+                }
+
+                // End Sub
+                return;
             }
 
             // Sort colors based on HSV
