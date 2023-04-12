@@ -1,0 +1,9 @@
+Z:\#VB PROJECTS BACKUP RECOURCES\SortHexColors v1.4\SortHexColors\bin\x64\Debug\SortHexColors.exe.config
+Z:\#VB PROJECTS BACKUP RECOURCES\SortHexColors v1.4\SortHexColors\bin\x64\Debug\SortHexColors.exe
+Z:\#VB PROJECTS BACKUP RECOURCES\SortHexColors v1.4\SortHexColors\bin\x64\Debug\SortHexColors.pdb
+Z:\#VB PROJECTS BACKUP RECOURCES\SortHexColors v1.4\SortHexColors\obj\x64\Debug\SortHexColors.Form1.resources
+Z:\#VB PROJECTS BACKUP RECOURCES\SortHexColors v1.4\SortHexColors\obj\x64\Debug\SortHexColors.Properties.Resources.resources
+Z:\#VB PROJECTS BACKUP RECOURCES\SortHexColors v1.4\SortHexColors\obj\x64\Debug\SortHexColors.csproj.GenerateResource.cache
+Z:\#VB PROJECTS BACKUP RECOURCES\SortHexColors v1.4\SortHexColors\obj\x64\Debug\SortHexColors.csproj.CoreCompileInputs.cache
+Z:\#VB PROJECTS BACKUP RECOURCES\SortHexColors v1.4\SortHexColors\obj\x64\Debug\SortHexColors.exe
+Z:\#VB PROJECTS BACKUP RECOURCES\SortHexColors v1.4\SortHexColors\obj\x64\Debug\SortHexColors.pdb

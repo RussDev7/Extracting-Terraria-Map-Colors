@@ -11,6 +11,9 @@ namespace SortHexColors
         public Form1()
         {
             InitializeComponent();
+
+            ToolTip toolTip = new ToolTip();
+            toolTip.SetToolTip(checkBox1, "Remove duplicates within a raw color filter.");
         }
 
         private void Button1_Click(object sender, EventArgs e)
@@ -116,6 +119,43 @@ namespace SortHexColors
             {
                 MessageBox.Show("Output data is empty!");
             }
+        }
+
+        // Remove duplicates from data.
+        private void Button4_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                // Check of ex mode is enabled for sorting raw .ftr data.
+                if (checkBox1.Checked)
+                {
+                    // Define the lines of the richtextbox excluding the last line.
+                    string[] lines = richTextBox2.Lines;
+
+                    // Add only the first duplicate from each found value.
+                    richTextBox2.Clear(); // Clear the richtextbox.
+                    foreach (string line in lines.GroupBy(x => x.Split('|')[(int)numericUpDown2.Value - 1]).Select(y => y.FirstOrDefault()))
+                    {
+                        // Add value.
+                        richTextBox2.AppendText(line + Environment.NewLine);
+                    }
+                }
+                else
+                {
+                    // Define the lines of the richtextbox excluding the last line.
+                    string[] lines = richTextBox2.Lines.Take(richTextBox2.Lines.Length - 1).ToArray();
+
+                    // Add only the first duplicate from each found value.
+                    richTextBox2.Clear(); // Clear the richtextbox.
+                    foreach (string line in lines.GroupBy(x => x.Split('\t')[(int)numericUpDown2.Value - 1]).Select(y => y.FirstOrDefault()))
+                    {
+                        // Add value.
+                        richTextBox2.AppendText(line + Environment.NewLine);
+                    }
+                }
+            }
+            catch (Exception)
+            { }
         }
     }
 }
